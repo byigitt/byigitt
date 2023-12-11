@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**byigitt/byigitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+let me = (introduce, myself) => {
+  age: 20,
+  name: "baris",
+  occupation: "sophomore software student @ cankaya",
+  hobbies: `playing games, talking w my friends,
+            sit in silent and question my existance`,
+  links: [ "linkedin/bbayburtlu" ],
+  email: "barisbayburtlu33@gmail.com"
+};
+```
