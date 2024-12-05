@@ -6,6 +6,6 @@ welcome!
 
 <h6>
   <i>  
-    <a href="https://portfolio.baris.pw">portfolio</a>, <a href="https://portfolio.baris.pw/blog">haste</a>, <a href="https://portfolio.baris.pw/blog">blog</a>,  <a href="https://baris.pw/docs/cv.pdf">cv</a>
+    <a href="https://portfolio.baris.pw">portfolio</a>, <a href="https://haste.baris.pw">haste</a>, <a href="https://portfolio.baris.pw/blog">blog</a>,  <a href="https://baris.pw/docs/cv.pdf">cv</a>
   </i>
 </h6>
