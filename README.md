@@ -1,3 +1,3 @@
 <h6> 
-    <a href="https://baris.pw/docs/cv.pdf">cv</a>, <a href="https://portfolio.baris.pw">portfolio</a>, <a href="https://portfolio.baris.pw/blog">blog</a>, <a href="https://haste.baris.pw">haste</a>, <a href="https://i.baris.pw/">image</a>, <a href="https://exif.baris.pw">exif</a>, <a href="https://pom.baris.pw">pomodoro</a>, <a href="https://cankaya.chat/">chat</a>, <a href="https://s.baris.pw">short</a><br /><br />baris@bayburt.lu
+    <a href="https://bayburt.lu/docs/cv.pdf">cv</a>, <a href="https://bayburt.lu">portfolio</a>, <a href="https://portfolio.bayburt.lu/blog">blog</a>, <a href="https://haste.bayburt.lu">haste</a>, <a href="https://i.bayburt.lu/">image</a>, <a href="https://exif.bayburt.lu">exif</a>, <a href="https://pom.bayburt.lu">pomodoro</a>, <a href="https://cankaya.chat/">chat</a>, <a href="https://s.bayburt.lu">short</a><br />email: baris@bayburt.lu
 </h6>
