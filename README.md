@@ -1,4 +1,4 @@
-hi, i am baris. i love doing 0->1 programming, full stack architecture and systems engineering
+hi, i am baris.<br> i love hackathons (15+ wins), doing 0->1 programming, full stack architecture and systems engineering.
 <h5><b>IMPORTANT:</b> Open for Business Opportunities in United States (not remote), can work without visa support.</h5>
 
 <h6> 
