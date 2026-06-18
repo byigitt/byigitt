@@ -1,5 +1,5 @@
 hi, i am baris.<br> i love hackathons (15+ wins), doing 0->1 programming, full stack architecture and systems engineering.
-<h5><b>IMPORTANT:</b> Open for Business Opportunities in United States (not remote), can work without visa support.</h5>
+<h5><b>IMPORTANT:</b> Open for Business Opportunities in United States, can work without visa support.</h5>
 
 <h6> 
     <a href="https://bayburt.lu">website</a> • <a href="https://diary.wtf/">diary</a> • <a href="https://wordle.bayburt.lu/">wordle</a> • <a href="https://i.bayburt.lu/">image</a> • <a href="https://exif.bayburt.lu">exif</a> • <a href="https://v.bayburt.lu">valentine</a> • <a href="https://cafe.bayburt.lu">cafe</a> • <a href="https://s.bayburt.lu">spotify</a><br>
